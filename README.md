@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Analyzing Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products.
+Analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products.
 
 Deliverable 1: Perform ETL on Amazon Product Reviews
 Deliverable 2: Determine Bias of Vine Reviews
