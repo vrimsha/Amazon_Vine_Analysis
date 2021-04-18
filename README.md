@@ -102,9 +102,11 @@ Zero
 631
 
 - What percentage of Vine reviews were 5 stars? 
+
 It is not applicable, because of zero paid reviews.
 
 - What percentage of non-Vine reviews were 5 stars?
+
 34.4%
 
 ## Summary:
