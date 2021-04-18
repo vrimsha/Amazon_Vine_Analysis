@@ -90,6 +90,7 @@ Use the PySpark, Pandas, or SQL in order to determine if there is any bias towar
  - How many Vine reviews and non-Vine reviews were there? 
 
 Vine reviews: 0
+
 Non-Vine reviews: 1685
 
 - How many Vine reviews were 5 stars? 
