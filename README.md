@@ -16,7 +16,9 @@ Resources: Amazon Dataset "Digital Video Games".
 
 The cloud ETL process with creation of an AWS RDS database with tables in pgAdmin.
 
-1. Use Amazon Dataset: Digital Video Games: https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz
+1. Use Amazon Dataset: Digital Video Games: 
+ 
+https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Digital_Video_Games_v1_00.tsv.gz
 
 2. Create customer_table.
 
